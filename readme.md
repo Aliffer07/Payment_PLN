@@ -121,7 +121,8 @@ Contributions are welcome!
 Feel free to fork the repository, create a new branch, and submit a pull request.
 
 ## 📬 Contact
+```
 Alif Fadhlurrohman
 GitHub: @Aliffer07
 Email: aliffadhlurrohman20@gmail.com
-
+```
