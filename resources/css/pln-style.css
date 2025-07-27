@@ -1,0 +1,18 @@
+/* PLN Theme Colors */
+:root {
+    --pln-blue: #0c4da2;
+    --pln-yellow: #ffcb05;
+}
+
+.bg-gradient-pln {
+    background: linear-gradient(to right, var(--pln-blue), #1a6cd8);
+}
+
+.btn-pln {
+    background-color: var(--pln-yellow);
+    color: var(--pln-blue);
+}
+
+.btn-pln:hover {
+    background-color: #ffd735;
+}
