@@ -12,8 +12,13 @@
 
 ## 📸 Screenshots
 
-- Home page 
-![Homepage](public/img/Home(admin).png)
+- Home Page 
+![Homepage](public/img/Home.png)
+- Login Page
+![Loginpage](public/img/Login.png)
+- Registrasi Page
+![Registrasipage](public/img/Registrasi.png)
+
 ---
 
 ## 🔥 Features
