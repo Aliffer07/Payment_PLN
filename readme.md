@@ -13,7 +13,7 @@
 ## 📸 Screenshots
 
 - Home page 
-- ![Homepage View](public/img/Menu home (admin).png)
+- ![HomepageView](public/img/Menu home (admin).png)
 ---
 
 ## 🔥 Features
