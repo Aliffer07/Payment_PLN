@@ -89,21 +89,29 @@ php artisan migrate
 php artisan serve
 ```
 
+---
+
 ## 🧭 User Roles & Access
-Role	Description	Accessible Menus
-Admin	System Administrator	Home, Payments, History, User Management
-Customer	Registered bill payer	Home, Payments, History
+
+| Role     | Description                   | Accessible Menus                          |
+|----------|-------------------------------|--------------------------------------------|
+| Admin    | System Administrator          | Home, Payments, History, User Management   |
+| Customer | Registered bill payer         | Home, Payments, History                    |
+
+---
 
 ## 🗂️ Project Structure (Simplified)
-pgsql
-Copy
-Edit
+
+```bash
 ├── app/             → Business logic (Controllers, Models)
 ├── resources/views/ → Blade templates for frontend
 ├── routes/web.php   → Web routes
 ├── public/          → Public assets (CSS, JS, Images)
 ├── database/        → Migrations & seeders
 ├── .env             → Environment configuration
+├── package.json     → Node.js config
+├── composer.json    → PHP dependencies
+```
 
 ## 🛡️ License
 This project is licensed under the MIT License.
