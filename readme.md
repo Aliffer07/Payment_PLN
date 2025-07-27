@@ -18,7 +18,14 @@
 ![Loginpage](public/img/Login.png)
 - Registrasi Page
 ![Registrasipage](public/img/Registrasi.png)
-
+-Home Page (admin)
+![HomePageAdmin](public/img/Menu%20home%20(admin).png)
+-History Page (admin)
+![HomePageAdmin](public/img/Menu%20payment%20(admin).png)
+-Edit Account
+![HomePageAdmin](public/img/Edit%20account.png)
+-PDF file report
+![PDFFile](public/img/invoice%20pdf.png)
 ---
 
 ## 🔥 Features
