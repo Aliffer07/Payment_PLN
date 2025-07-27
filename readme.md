@@ -87,13 +87,14 @@ php artisan migrate
 
 # 7. Start the Laravel development server
 php artisan serve
+```
 
-##🧭 User Roles & Access
+## 🧭 User Roles & Access
 Role	Description	Accessible Menus
 Admin	System Administrator	Home, Payments, History, User Management
 Customer	Registered bill payer	Home, Payments, History
 
-##🗂️ Project Structure (Simplified)
+## 🗂️ Project Structure (Simplified)
 pgsql
 Copy
 Edit
@@ -104,14 +105,14 @@ Edit
 ├── database/        → Migrations & seeders
 ├── .env             → Environment configuration
 
-##🛡️ License
+## 🛡️ License
 This project is licensed under the MIT License.
 
-##🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 Feel free to fork the repository, create a new branch, and submit a pull request.
 
-##📬 Contact
+## 📬 Contact
 Alif Fadhlurrohman
 GitHub: @Aliffer07
 Email: aliffadhlurrohman20@gmail.com
