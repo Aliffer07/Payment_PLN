@@ -125,3 +125,4 @@ Feel free to fork the repository, create a new branch, and submit a pull request
 **Alif Fadhlurrohman**  
 🔗 GitHub: [@Aliffer07](https://github.com/Aliffer07)  
 ✉️ Email: [aliffadhlurrohman20@gmail.com](mailto:aliffadhlurrohman20@gmail.com)
+![Discord](https://img.shields.io/badge/Discord-alifferhd-5865F2?logo=discord&style=flat-square) Discord : alifferhd
